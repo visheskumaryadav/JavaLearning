@@ -31,6 +31,9 @@ public class BasicPatterns {
         }
     }
 
+    /*
+
+     */
     public static void main(String[] args) {
         BasicPatterns.printFullPyramid(5);
     }
